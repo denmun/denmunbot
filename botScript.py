@@ -4,7 +4,7 @@ getting = {}
 
 id_array = []
 
-updater = Updater(token = '583353411:AAE1qPbpf6SMq3xHP79C056u1EmJ3SYzSGY')
+updater = Updater(token = '')
 dispatcher = updater.dispatcher
 
 def startCommand(bot, update):
